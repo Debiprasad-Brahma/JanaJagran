@@ -1,12 +1,61 @@
-# React + Vite
+# 🌍 JanaJagran – Civic Sense Awareness Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **minimal React-based website** built to spread awareness about **Civic Sense** and encourage people to take responsibility as citizens.  
+The project includes an **interactive pledge** and a **quiz** to test knowledge about responsible behavior in society and abroad.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 📌 **Multi-page navigation** using **React Router** (Home, About, Learn, Stories, Pledge).  
+- ✨ **Responsive UI** built with **TailwindCSS**.  
+- 🔄 **Hooks** like `useState` and `useNavigate` for state management and navigation.  
+- 🧭 **Conditional rendering** – unlocks the civic sense quiz only after taking the pledge.  
+- 📝 **Interactive Quiz** with tricky real-life scenarios. Wrong answers reveal the correct response.  
+- 📖 **Stories Section** with real-life incidents (both good and bad examples of civic sense).  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## ⚡ Tech Stack
+- **React.js** – UI development  
+- **React Router DOM** – Routing  
+- **Tailwind CSS** – Styling & responsiveness  
+- **Lucide-react** – Icons  
+
+---
+
+## 🎯 Purpose
+
+This project is not just about coding but about creating **awareness**.  
+It reminds us that civic sense is not optional – it is about:
+
+- 🚮 Respecting public property  
+- 🚦 Following rules & laws  
+- 🌍 Treating foreigners with dignity  
+- 🇮🇳 Representing our country responsibly  
+
+💡 *Awareness alone may not change society overnight, but small steps lead to big impacts when we act together.*  
+
+---
+
+## 🔗 Live Demo
+
+👉 [ http://janajagran.netlify.app ]
+
+---
+
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you’d like to add more stories, quiz questions, or improve UI, feel free to fork and submit a pull request.  
+
+---
+
+
+## 🌟 Acknowledgment
+
+Built with ❤️ using **React & Tailwind** to spread awareness on civic sense.  
+
